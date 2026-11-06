@@ -15,7 +15,7 @@ Machine learning engineer with a background in computational neuroscience. I wor
 
 **Research**
 
-MSc thesis in computational neuroscience on cerebellar learning ([code](https://github.com/Schakirov/cerebellum)), published as:
+MSc thesis in computational neuroscience on cerebellar learning, published as:
 - Shakirov V. et al. *Cerebellar plasticity-based equalization of total input to inferior olive cells.* Neurosci Behav Physi 53, 739–751 (2023). [doi](https://doi.org/10.1007/s11055-023-01422-8)
 - Shakirov V., Dorofeev V., Dunin-Barkowski W. *Cerebellar plasticity-based equalization of total input to inferior olive cells: properties of the model dynamics.* Neurosci Behav Physi 53, 729–738 (2023). [doi](https://doi.org/10.1007/s11055-023-01423-7)
 - Shakirov V. et al. *Dynamic chaos in cerebellum and electrical synapses between climbing fiber cells of inferior olives.* Neurosci Behav Physi 53, 717–728 (2023). [doi](https://doi.org/10.1007/s11055-023-01420-w)
