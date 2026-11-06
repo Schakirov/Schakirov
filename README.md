@@ -1,7 +1,5 @@
 ### Vladimir Shakirov
 
-Machine learning engineer with a background in computational neuroscience. I work on GPU performance, evaluation of models and agents, and ML for biology.
+Machine learning engineer with a background in computational neuroscience. Recent projects: GPU inference optimization, evaluation of LLMs and agents, and protein language models. Looking for ML roles, especially in ML for biology.
 
-Publications: three first-author papers on cerebellar learning from my MSc thesis, *Neurosci Behav Physi* 2023 ([1](https://doi.org/10.1007/s11055-023-01422-8), [2](https://doi.org/10.1007/s11055-023-01423-7), [3](https://doi.org/10.1007/s11055-023-01420-w)).
-
-[LinkedIn](https://www.linkedin.com/in/vladimir-shakirov/)
+[Google Scholar](https://scholar.google.com/citations?user=dPfYd74AAAAJ) · [LinkedIn](https://www.linkedin.com/in/vladimir-shakirov/)
